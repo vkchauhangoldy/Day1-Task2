@@ -1,0 +1,15 @@
+#container{
+    height: 400px;
+    width: 800px;
+    border: 1px solid red;
+    margin: auto;
+    background-color: rgb(241, 188, 243);
+    display: flex;
+    flex-flow:wrap;
+   justify-content: space-between;
+   
+}
+.btn{
+ text-align: center;
+ padding-top: 10px;
+}
